@@ -1,0 +1,7 @@
+public class Demo{
+ public void doDemo{
+
+//logic to be here 
+
+}
+}
